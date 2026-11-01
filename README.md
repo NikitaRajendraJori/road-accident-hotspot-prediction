@@ -22,6 +22,6 @@ To be filled after running on the final real dataset.
 - Demo data is synthetic; report only metrics from real data.
 
 ## Team contributions
-Name 1 :- problem definition, data understanding, documentation
-Name 2 :- preprocessing, EDA and visualisations
-Name 3 :- feature engineering, model building
+- Nikita Jori :- implementation (data cleaning, EDA, feature engineering, Linear and Logistic Regression models, hotspot map, Streamlit app), GitHub repository
+- Shrawani Borawake :- project idea, problem definition, presentation (PPT), dataset search and testing
+- Samruddhi Bodakhe :- documentation support, app testing, screenshots, proofreading
